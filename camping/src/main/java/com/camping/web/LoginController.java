@@ -19,7 +19,6 @@ public class LoginController {
 
 		// 로그인 페이지로 수정
 		return "franchlsee/applyFranchlsee";
-
 	}
 
 }
