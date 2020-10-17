@@ -17,7 +17,7 @@ public class LoginController {
 	@RequestMapping(value = "/login.do", method = RequestMethod.GET)
 	public String main(HttpServletRequest request, ModelMap model) {
 
-		// 로그인 페이지로 수정
+		// 濡쒓렇�씤 �럹�씠吏�濡� �닔�젙
 		return "franchlsee/applyFranchlsee";
 	}
 
