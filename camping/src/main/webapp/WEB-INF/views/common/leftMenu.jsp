@@ -119,7 +119,7 @@
 								<li><a href="#">휴가 관리</a></li>
 								<li><a href="#">초과 근무 수당 신청</a></li>												
 								<li><a href="#">초과 근무 수당 관리</a></li>												
-								<li><a href="#">증명서 발급</a></li>															
+								<li><a href="${pageContext.request.contextPath}/account/accountList.html" id ="accountList" >캠핑앤코딩</a></li>															
 							</ul>
 						</li>
 					</ul>								
